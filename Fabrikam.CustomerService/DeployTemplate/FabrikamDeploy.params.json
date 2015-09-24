@@ -1,0 +1,45 @@
+{
+  "storageAccountName": {
+    "value": "ffiber"
+  },
+  "dnsNameForLBIP": {
+    "value": "ffiber"
+  },
+  "vmNamePrefix": {
+    "value": "App"
+  },
+  "nvmNamePrefix": {
+    "value": "Test"
+  },  
+  "lbName": {
+    "value": "fiber"
+  },    
+   "imagePublisher": {
+    "value": "MicrosoftSQLServer"
+  },
+   "imageOffer": {
+    "value": "SQL2014SP1-WS2012R2"
+  },  
+   "imageSKU": {
+    "value": "Standard"
+  },  
+   "azureKeyVaultResourceGroup": {
+    "value": "FabrikamVault"
+  },    
+  "azureKeyVaultName": {
+    "value": "fabrikam1"
+  },
+  "SecretId": {
+    "value": "https://fabrikam1.vault.azure.net:443/secrets/fabrikam1/935a1b14ff414c66b5e21052bcbe8bda"
+  },
+    "vmSize": {
+    "value": "Standard_A4"
+  },
+    "adminUsername": {
+    "value": "vmuser"
+  },
+  "adminPassword": {
+    "value": "Passw0rd"
+  }
+}
+

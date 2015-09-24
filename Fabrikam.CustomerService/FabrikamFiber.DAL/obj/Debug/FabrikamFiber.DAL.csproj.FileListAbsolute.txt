@@ -1,0 +1,10 @@
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.pdb
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.pdb
